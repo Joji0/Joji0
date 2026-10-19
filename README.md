@@ -55,19 +55,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,go,ts,js,react,nextjs,tailwind,threejs,fastapi,postgres,sqlite,linux,git,neovim&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,java,go,ts,js,svelte,react,nextjs,astro,tailwind,threejs,fastapi,postgres,sqlite,linux,bash,git,neovim,latex&theme=dark" alt="Skill Icons" />
   </a>
-</div>
-
-<br>
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joji0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats with Rank Grade" />
-  <img src="https://streak-stats.demolab.com/?user=Joji0&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joji0&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 </div>
 
 <br>
@@ -87,9 +76,9 @@
 ### Connect
 
 <div align="center">
-  <a href="https://codeforces.com/profile/jonathankw2005"><img src="https://cdn.simpleicons.org/codeforces" height="40" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/jonathankw2005"><img src="https://cdn.simpleicons.org/codeforces" height="48" alt="Codeforces" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jonathan-kris/"><img src="https://cdn.simpleicons.org/linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jonathan-kris/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:jonathankw2005@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" alt="Email" /></a>
+  <a href="mailto:jonathankw2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></a>
 </div>
