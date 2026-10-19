@@ -5,28 +5,13 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Competitive+Programming+%26+Algorithms;Deepening+in+AI+%26+Machine+Learning;Informatics+%40+Institut+Teknologi+Bandung" alt="Typing SVG" />
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+
   <p>
     CS student at <b>Institut Teknologi Bandung (ITB)</b>.<br>
     Competitive programmer at heart, currently spending most of my time learning and diving deep into <b>Artificial Intelligence & Machine Learning</b>. Love tackling complex algorithmic puzzles, mathematical modeling, and applying algorithms to intelligent systems.
   </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
-
-<div align="center">
-
-**`Informatics @ ITB | Competitive Programming | AI/ML`**
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1.5k%2B_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jonathankw2005)
-[![ICPC](https://img.shields.io/badge/ICPC_Asia_Jakarta_2025-Honorable_Mention-FF6B6B?style=for-the-badge)](https://codeforces.com/profile/jonathankw2005)
-
-<br>
-
-`C++` `Python` `C` `Graph Theory` `DP` `Machine Learning`
-
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
 </div>
 
@@ -102,7 +87,9 @@
 ### Connect
 
 <div align="center">
-  <a href="https://codeforces.com/profile/jonathankw2005"><b>Codeforces</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/jonathan-kris/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="mailto:jonathankw2005@gmail.com"><b>Email</b></a>
+  <a href="https://codeforces.com/profile/jonathankw2005"><img src="https://cdn.simpleicons.org/codeforces" height="40" alt="Codeforces" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jonathan-kris/"><img src="https://cdn.simpleicons.org/linkedin" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jonathankw2005@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" alt="Email" /></a>
 </div>
