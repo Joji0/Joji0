@@ -14,13 +14,13 @@
 </div>
 
 ```ansi
- [1;36m       /\           [1;37mjonathan [0m@ [1;34mstei-itb [0m
- [1;36m      /  \          [0m----------------
- [1;36m     / /\ \         [1;33mRole: [0m Informatics Engineering @ ITB
- [1;36m    / /  \ \        [1;33mPrimary Focus: [0m Competitive Programming & AI/ML
- [1;36m   / /    \ \       [1;33mInterests: [0m Search Heuristics, Machine Learning, Graph Theory
- [1;36m  / /______\ \      [1;33mCompetitive: [0m ICPC Regional Contestant & 1,500+ Problems Solved
- [1;36m / /________\ \     [1;33mStatus: [0m Grinding algorithms & building models
+ [1;36m       /\           [1;37mjonathan [0m@ [1;34mstei-itb [0m
+ [1;36m      /  \          [0m----------------
+ [1;36m     / /\ \         [1;33mRole: [0m Informatics Engineering @ ITB
+ [1;36m    / /  \ \        [1;33mPrimary Focus: [0m Competitive Programming & AI/ML
+ [1;36m   / /    \ \       [1;33mInterests: [0m Search Heuristics, Machine Learning, Graph Theory
+ [1;36m  / /______\ \      [1;33mCompetitive: [0m ICPC Regional Contestant & 1,500+ Problems Solved
+ [1;36m / /________\ \     [1;33mStatus: [0m Grinding algorithms & building models
 ```
 
 <div align="center">
