@@ -13,15 +13,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
 </div>
 
-```text
-       /\           jonathan @ stei-itb
-      /  \          ----------------
-     / /\ \         Role: Informatics Engineering @ ITB
-    / /  \ \        Primary Focus: Competitive Programming & AI/ML
-   / /    \ \       Interests: Search Heuristics, Machine Learning, Graph Theory
-  / /______\ \      Competitive: ICPC Regional Contestant & 1,500+ Problems Solved
- / /________\ \     Status: Grinding algorithms & building models
-```
+<div align="center">
+
+**`Informatics @ ITB | Competitive Programming | AI/ML`**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1.5k%2B_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jonathankw2005)
+[![ICPC](https://img.shields.io/badge/ICPC_Asia_Jakarta_2025-Honorable_Mention-FF6B6B?style=for-the-badge)](https://codeforces.com/profile/jonathankw2005)
+
+<br>
+
+`C++` `Python` `C` `Graph Theory` `DP` `Machine Learning`
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
